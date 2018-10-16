@@ -1,3 +1,7 @@
 
+
  This is a master file
  this is a feature branch 1 file
+
+This is a feature branch 2file
+ FB2
